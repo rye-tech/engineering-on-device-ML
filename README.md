@@ -6,4 +6,8 @@ for Assistance During Daily Living Activities
 
 Authors: Jarren Bachiller Berdal & Ryan J. Hartnett
 
-Please see the Presentation and Report PDF for fuller details
+Advisor: Dr. Zhuwei Qin
+
+Please see the Presentation and Report PDF for fuller details.
+
+NOTE: Emformer model has issues that need to be addressed. Shared for collaboration and transparency.
